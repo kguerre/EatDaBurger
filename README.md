@@ -1,5 +1,4 @@
 # EatDaBurger
-Homework 14
 
 ### Overview
 
