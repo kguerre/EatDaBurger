@@ -14,4 +14,6 @@ In this assignment, we created a burger logger using MySQL, Node, Express, Handl
 
 * Every burger entered is stored in MySQL.
 
+[Check it out!](https://agile-beach-77295.herokuapp.com/)
+
 
